@@ -2405,7 +2405,7 @@ a.wpwh-text-green:hover { color: #217d72 !important; }
 
 .wpwh .wpwh-checklist { margin-left: 0; padding-left: 0; list-style: none; }
 
-.wpwh .wpwh-checklist > li { margin-bottom: 15px; margin-bottom:  0.9375rem; padding-left: 40px; padding-left:  2.5rem; background: url(https://69272ac67bc87c1ce967a0f5--subtle-torte-09349f.netlify.app/wp-content/plugins/wp-webhooks/core/includes/assets/img/check.svg) no-repeat left 2px; }
+.wpwh .wpwh-checklist > li { margin-bottom: 15px; margin-bottom:  0.9375rem; padding-left: 40px; padding-left:  2.5rem; background: url(https://engtarcio.github.io/pulsobaby-blog/wp-content/plugins/wp-webhooks/core/includes/assets/img/check.svg) no-repeat left 2px; }
 
 .wpwh .wpwh-checklist--two-col { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
@@ -2835,7 +2835,7 @@ tr.performing-event td:after { width: 100%; height: 100%; background-color: rgba
 
 .wpwh .wpwh-icon { background: no-repeat center center; display: inline-block; }
 
-.wpwh .wpwh-icon--trash { background-image: url("https://69272ac67bc87c1ce967a0f5--subtle-torte-09349f.netlify.app/wp-content/plugins/wp-webhooks/core/includes/assets/img/trash.svg"); width: 18px; height: 20px; }
+.wpwh .wpwh-icon--trash { background-image: url("https://engtarcio.github.io/pulsobaby-blog/wp-content/plugins/wp-webhooks/core/includes/assets/img/trash.svg"); width: 18px; height: 20px; }
 
 .wpwh .wpwh-status-cell { vertical-align: middle; padding: 10px 0 10px 10px !important; padding:  0.625rem 0rem 0.625rem 0.625rem !important; width: 50px; text-align: center; }
 
